@@ -11,37 +11,37 @@
 - Muhammad Abdullah
 - Zohaib Malik
 
+**GitHub usernames:**
+
+- [@zohaibkhan745](https://github.com/zohaibkhan745)
+- [@khadzzz4545-ctrl](https://github.com/khadzzz4545-ctrl)
+- [@ravenscoat](https://github.com/ravenscoat)
+
 ---
 
 ## 💡 Our Idea
 
-Our squad is building from **one** of the ten ideas in the
-[Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). The
-idea is a starting line, not a spec — our job is to **narrow it** to one specific user,
-one painful problem, and one small thing we can ship in 8 weeks.
+Our squad picked **[Idea 5 — The Always-On Front Desk (Voice/WhatsApp Agent)](https://github.com/Comebck-Pakistan/cohort-1-product-challenge#idea-5--the-always-on-front-desk-voicewhatsapp-agent)** from the [Cohort 1 Product Challenge](https://github.com/Comebck-Pakistan/cohort-1-product-challenge). Below are our ideation-stage validation answers, reproduced exactly as we submitted them.
 
-**Pick one of the ten ideas, then delete the rest of this list:**
+### One specific user
 
-1. The Small-Business Brain (WhatsApp-first)
-2. The Urdu-First Study Coach
-3. The Shoebox-to-Books Bookkeeper
-4. The Freelancer's Co-Pilot
-5. The Always-On Front Desk (Voice/WhatsApp Agent)
-6. The Farmer's Advisor in Your Pocket
-7. The SME Paperwork Generator
-8. The Social-Commerce Support Agent
-9. The Fair First-Round Recruiter
-10. The Public-Services Navigator
+The owner-doctor of a small, single-branch dental or general physician clinic in Rawalpindi/Islamabad (1–2 doctors, no dedicated receptionist or just one overworked front-desk person) who handles patient calls themselves between appointments.
 
-### 📌 Our pick
+### The painful problem
 
-> _Fill this in as a squad._
+While the doctor is with a patient, the clinic phone rings with someone wanting to book an appointment, ask if a specific treatment is available, or confirm clinic hours — nobody picks up, so the caller either hangs up and tries a competing clinic nearby, or leaves a voicemail that doesn't get returned until evening when the patient has already booked elsewhere. Today the doctor's only workaround is interrupting the current patient to answer the phone, which delays everyone in the waiting room and still doesn't get the new booking written down properly, so slots get double-booked or forgotten. This is painful enough to switch because a missed call isn't just an inconvenience — it's a lost patient and lost revenue the doctor can point to directly, multiplied across every busy clinic day.
 
-- **Idea we picked:** _#__ — ____________________________________________
-- **One specific user:** _______________________________________________
-- **The painful problem:** _____________________________________________
-- **Our 8-week wedge (the one small thing we'll ship):** _______________
-- **The one number that proves people want it:** _______________________
+### Our 8-week wedge
+
+A voice agent that answers every inbound call to the clinic's number 24/7, answers basic FAQs (services offered, doctor's availability, clinic hours, general pricing), and books the appointment directly into a shared calendar
+
+### The one number that proves people want it
+
+3 clinics use the agent to handle real incoming calls for at least one week each, and between them at least 10 real appointments get booked through the agent that the doctor/owner confirms would otherwise have been missed or mishandled.
+
+### Why we picked this idea
+
+We don't have a warm contact inside a clinic yet, no relative who's a doctor, no friend at a front desk — so reaching 10 clinics this week means real cold outreach, not a shortcut. Clinics are dense and walkable in our city, so getting in front of 10 this week is realistic, but we're treating it as unproven until we actually go knock on doors. Our edge as a squad is that one of us has already built and shipped working inbound voice receptionists for paying clients — Retell/VAPI agents wired to real calendars via GoHighLevel and n8n, including a plumbing/HVAC receptionist already in production — so we're not starting the technical build from zero, even though the rest of the team is newer to this stack and will be learning it hands-on as we go. We picked this idea because the build risk is the one risk we can already manage; the real unknown, and the thing this sprint is actually designed to test, is whether a clinic will trust a stranger's AI with real patient calls. We'd rather spend 8 weeks as a team finding that out with real cold outreach than building something polished that nobody asked for.
 
 ---
 
